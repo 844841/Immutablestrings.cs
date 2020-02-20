@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\bin\Debug\Immutablestrings.cs.exe.config
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\bin\Debug\Immutablestrings.cs.exe
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\bin\Debug\Immutablestrings.cs.pdb
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\obj\Debug\Mutablestrings.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\obj\Debug\Mutablestrings.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\obj\Debug\Immutablestrings.cs.exe
+d:\Users\Admin\source\repos\Immutablestrings.cs\Immutablestrings.cs\obj\Debug\Immutablestrings.cs.pdb
